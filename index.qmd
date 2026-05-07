@@ -1,0 +1,26 @@
+---
+title: "Shivam Pathak"
+image: profile.png
+about: 
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:shivam.pathak@ucdenver.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/2h1vam12
+---
+
+## Skills
+* Programming in R and C++
+* AI Development & Neural Agents
+* Embedded Systems & Arduino
+
+## Education
+* B.S. Computer Science, University of Colorado Denver
+* Senior Capstone: Project ATHENA
+* Expected Graduation: May 2026
+
+---
+

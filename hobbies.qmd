@@ -1,0 +1,14 @@
+---
+title : "Hobbies"
+---
+
+## 1. Minecraft Modding
+I really enjoy building Minecraft mods using tools like MCreator. I actually teach kids how to do this as a Code Sensei, so I've gotten pretty good at it!
+
+## 2. Arcade Hardware Development
+I like tinkering with embedded systems and Arduinos. Right now, I'm having a blast building a hardware-based Space Invaders game.
+
+## 3. Organizing Tech Events
+As Co-President of SASE, I spend a lot of my free time organizing workshops, panels, and events like the Blossom Ball. It's a lot of work but very rewarding.
+
+![My Hob](Minecraft.jpg.)
